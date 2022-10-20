@@ -1,0 +1,5 @@
+2022-09-24 08:02:26,873  INFO [main] eBanking:16 - URL is opened
+ 2022-09-24 08:02:30,681  INFO [main] eBanking:21 - Entered username
+ 2022-09-24 08:02:30,871  INFO [main] eBanking:24 - Enetered Password
+ 2022-09-24 08:02:35,643  INFO [main] eBanking:30 - Login Test Passed
+ 
