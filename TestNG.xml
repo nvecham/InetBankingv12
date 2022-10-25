@@ -7,8 +7,8 @@
   <test name="BankingApp Test">
   <parameter name = "browser" value = "chrome"/>
     <classes>
-    <class name="com.inetBanking.testCases.TC_Login_001"/> 
-  <!--      <class name="com.inetBanking.testCases.TC_LoginDDT_002"/> -->
+  <!--  <class name="com.inetBanking.testCases.TC_Login_001"/> -->
+        <class name="com.inetBanking.testCases.TC_LoginDDT_002"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

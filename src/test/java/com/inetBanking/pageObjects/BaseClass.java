@@ -1,6 +1,5 @@
 package com.inetBanking.pageObjects;
 
-
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -52,6 +51,7 @@ public class BaseClass {
 			driver = new EdgeDriver();
 		}
 		
+		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(baseURL);
 	}
